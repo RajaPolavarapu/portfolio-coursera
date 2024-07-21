@@ -1,5 +1,5 @@
 Completed portfolio website
-[view Portfolio Live website](https://portfolio-coursera.vercel.com/)
+[view Portfolio Live website](https://portfolio-coursera-main.vercel.app)
 
 ![screenshot](./screenshots/image.png)
 
